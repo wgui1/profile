@@ -1,0 +1,9 @@
+[submodule ".vim/pack/plugins/start/vim-javascript"]
+	path = .vim/pack/plugins/start/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
+[submodule ".vim/pack/plugins/start/oceanic-next-vim"]
+	path = .vim/pack/plugins/start/oceanic-next-vim
+	url = git@github.com:yosiat/oceanic-next-vim.git
+[submodule ".vim/pack/plugins/start/vim-go"]
+	path = .vim/pack/plugins/start/vim-go
+	url = git@github.com:fatih/vim-go.git
