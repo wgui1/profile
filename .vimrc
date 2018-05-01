@@ -40,6 +40,9 @@ set vb t_vb=
 " delete option
 set backspace=indent,eol,start
 
+" nerdtee
+map <C-m> :NERDTreeToggle<CR>
+
 " ************************************************************************
 " file type option
 filetype indent plugin on
